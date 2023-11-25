@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+font-family: sans-serif;
+
+}
+
+.baba{
+
+    transition: all 0.3s ease;  
+    
+    text-align: center; 
+    padding: 7px;
+    font-size: 25px;
+    margin:0 20px;
+}
+.baba:hover{
+
+    background-color:rgb(218, 216, 213);
+
+
+}
+.babab{
+
+background-color: blue;
+
+    
+    text-align: center; 
+    padding: 7px;
+    font-size: 25px;
+    margin:0 20px;
+
+}
+.bab{
+
+    color:blue;
+    transition: all 0.3s ease;  
+    
+    text-align: center; 
+    padding: 7px;
+    font-size: 25px;
+    margin:0 20px;
+    text-decoration: blue;
+    border-bottom: 3px solid blue;
+
+}
+.bab:hover{
+
+    background-color:rgb(218, 216, 213);
+}
+
+
+.sea{
+    position: relative;
+    margin-left: 0px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px;
+    background-color: rgb(236, 239, 241);
+    height: 35px;
+    color:black;
+    width:250px;
+    outline: none;
+}
+.sea:focus{
+background-color: rgb(184, 189, 189);
+}
+.sea:hover{
+
+    background-color:rgb(148, 145, 142); ;
+    cursor: pointer;
+
+
+}
+#ccc{
+font-size: 25px;
+    right: 80px;
+    top:20px;
+position: absolute;
+}
+#mnmn{
+    font-size:40px;
+    margin: auto;
+}
+.tex{
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    background-color: rgba(228, 226, 224, 0.849);
+    transform: 0,2s ,ease;
+}
+.tex:hover{
+cursor: pointer;
+    background-color:rgb(218, 216, 213);
+}
+.btn{
+    border-radius: 10px;
+    color: rgb(215, 218, 250);
+    background-color: blue;
+    transition:rgb(181, 184, 228) 0.3s;
+}
+.btn:hover{
+    background-color:blue;
+    opacity: 0.6;
+    cursor: pointer;
+    
+
+}
+.ooo{
+    width: 300px;
+    position:fixed;
+    overflow: hidden;
+height:100vh;
+transition:  0.3s ease; 
+
+}
+.ooo:hover{
+border: none;
+overflow:scroll;
+
+}
+
+.ooo a:hover{
+    background-color:rgb(218, 216, 213);
+    text-decoration: none;
+
+}
+
+.ttt{
+    position: fixed;
+    height: 100vh;
+    width: 300px;
+   
+
+}
+
+.ttt:hover{
+    overflow:scroll;
+
+
+}
+.ttt a:hover{
+    background-color:rgb(218, 216, 213);
+    text-decoration: none;
+}
+
+
+.uuu{
+    position: relative;
+    border-radius: 10;
+    box-shadow: 50px;
+    transition: 0.3s ease;
+}
+.uuu:hover{
+    background-color: rgb(218,216,213);
+
+opacity:0.7px;
+}
+.sss{
+    position: absolute;
+    top:20px;
+    border-radius: 50%;
+    border: 10px blue;
+    outline: 3px solid blue;
+}
+.bbb{
+    text-decoration: none;
+    position: absolute;
+    top:200px;
+    font-size:15px;
+    color:rgb(69, 80, 236);
+}
+
+#opp
+{
+    background-color: rgb(43, 43, 224);
+    position: absolute;
+    top: 70%;
+    left:40px;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    font-size: 25px;
+    color: antiquewhite;
+    outline: 3px solid blue;
+    
+}
+.sea1{
+    height: 50px;
+    width:80%;
+    outline:none;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(199, 195, 189);
+
+}
+.sea1:hover{
+    background-color: rgb(190, 190, 190);
+    opacity: 0,5;
+    cursor: pointer;
+}
+.ss{
+    border-radius: 50%;
+}
+hr{
+    width: 70%;
+    font-weight: bold;
+}
+.sf{
+    border-radius: 50%;
+}
+p{
+    text-decoration: none;
+}
+p:hover{
+    text-decoration: none;
+    border-bottom: none;
+    outline: none;
+}
+.hjk{
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    width: 80%;
+    height: 40px;
+    background-color: rgb(137, 141, 141);
+}
+.uuu{
+   
+}
+.tyu{
+    margin: 0 5px;
+}
+.mkmk{
+    width: 500px;
+}
+@media only screen and (max-width:700px) {
+.ttt
+    {
+    display: none;
+    }
+
+    
+  }
+
+#sek{
+transform: translate(30%);
+border-radius: 20px;
+width: 400px;
+
+}
